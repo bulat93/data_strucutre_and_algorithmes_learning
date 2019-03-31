@@ -1,4 +1,4 @@
-package LinkedListsTask.reverseSinglyLinkedWithRecursion;
+package linkedlisttasks.reverseSinglyLinkedWithRecursion;
 
 public class SinglyLinkedList {
 

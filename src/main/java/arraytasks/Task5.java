@@ -1,4 +1,4 @@
-package ArrayTasks;
+package arraytasks;
 
 public class Task5 {
 }

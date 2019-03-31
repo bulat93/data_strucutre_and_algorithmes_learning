@@ -1,4 +1,4 @@
-package LinkedListsTask.checkLinkedListHaveCycle;
+package linkedlisttasks.checkLinkedListHaveCycle;
 
 public class LinkedListWithoutCycle {
 

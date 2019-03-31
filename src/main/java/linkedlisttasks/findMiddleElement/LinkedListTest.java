@@ -1,4 +1,4 @@
-package LinkedListsTask.findMiddleElement;
+package linkedlisttasks.findMiddleElement;
 
 public class LinkedListTest {
 
