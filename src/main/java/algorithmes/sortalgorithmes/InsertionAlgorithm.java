@@ -1,4 +1,4 @@
-package algorithmes.insertionalgorithmes;
+package algorithmes.sortalgorithmes;
 
 import java.util.Arrays;
 
