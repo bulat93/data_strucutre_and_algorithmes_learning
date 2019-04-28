@@ -3,7 +3,7 @@ package arraytasks;
 public class RemoveDuplicatesFromSortedArray {
 
     public static void main(String[] args) {
-        int[] array = {1, 1, 2, 3, 4, 5};
+        int[] array = {1, 2, 2, 3, 4, 5};
         int length = removeDuplicate(array);
         for (int i = 0; i < length; i++)
             System.out.print(array[i] + " ");
