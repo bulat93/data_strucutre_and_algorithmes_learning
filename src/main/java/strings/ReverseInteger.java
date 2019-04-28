@@ -1,9 +1,9 @@
 package strings;
 
-public class FirstUniqueCharacter {
+public class ReverseInteger {
 
     public static void main(String[] args) {
-        int i = -100;
+        int i = 543;
         i = reverse(i);
         System.out.println(i);
     }
